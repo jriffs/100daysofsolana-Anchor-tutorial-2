@@ -1,0 +1,2 @@
+// adding solana-cli to path
+PATH="/home/codespace/.local/share/solana/install/active_release/bin:$PATH"
