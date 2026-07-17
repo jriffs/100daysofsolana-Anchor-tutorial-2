@@ -4,6 +4,6 @@ PATH="/home/codespace/.local/share/solana/install/active_release/bin:$PATH"
 // counter program ID
 Hoc6XZ1V9Fu4AEystdYZaoQ7zbo3FHY8uFX1abqrDVUV
 
-
+test = "cargo test"
 
 
